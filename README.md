@@ -9,7 +9,7 @@
 * [ ] 增加组策部历届成员部分
 * [ ] 增加组策部培训部分
 
-本书借鉴：[上海交通大学生存手册)](https://survivesjtu.gitbook.io/survivesjtumanual/)
+本书借鉴：[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
 ## 提issue
 
