@@ -18,6 +18,9 @@
 ## 成长
 
 * [🛠神奇工具在哪里](成长/神奇工具在哪里.md)
+  * [Flip the wall](成长/Flipthewall.md)
+
+  * [Tampermonkey](成长/Tampermonkey.md)
 
 
 ## 传承
