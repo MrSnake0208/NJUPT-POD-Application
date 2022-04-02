@@ -22,6 +22,9 @@
 
   * [Tampermonkey](成长/Tampermonkey.md)
 
+* 🎁由生存变为生活
+  * [💰Where is your money](成长/Whereisyourmoney.md)
+
 
 ## 传承
 
